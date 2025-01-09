@@ -3,7 +3,7 @@
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-- Backend service for the FlickIt Sports Application, handling user authentication, football drill management, and leaderboard functionality. Built with AWS Lambda functions and MongoDB Atlas.
+- Backend service for the FlickIt Sports Application, handling user authentication, football drill management, and leaderboard functionality. Built with Express.Js, Node.Js and MongoDB Atlas.
 - For the frontend part: [NextKick Frontend](https://github.com/SanjayKParida/next-kick)
 
 ## ⚡️ Features
