@@ -19,11 +19,11 @@
 ## ⏳ Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/SanjayKParida/market-sphere-backend.git
+   git clone https://github.com/SanjayKParida/next-kick-backend.git
    ```
 2. Navigate to the project directory:
    ```
-   cd market-sphere-backend
+   cd next-kick-backend
    ```
 3. Install dependencies:
    ```
