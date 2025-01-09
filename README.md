@@ -4,6 +4,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 - Backend service for the FlickIt Sports Application, handling user authentication, football drill management, and leaderboard functionality. Built with AWS Lambda functions and MongoDB Atlas.
+- For the frontend part: [NextKick Frontend](https://github.com/SanjayKParida/next-kick)
 
 ## ⚡️ Features
 - RESTful APIs for NextKick android application.
